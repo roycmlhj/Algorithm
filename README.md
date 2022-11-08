@@ -7,3 +7,5 @@ https://programmers.co.kr/learn/challenges
 
 백준저지
 https://www.acmicpc.net/
+
+이것이 취업을 위한 코딩테스트다
