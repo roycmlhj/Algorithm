@@ -69,7 +69,7 @@ public class Main {
                     arr[nx][ny] = 2;
                     q.offer(new Position(nx, ny));
                     Position prev = q.poll();
-                    arr[prev.getX()][prev.getY()] = 0;
+                    arr[prev.getX()][prev.getY()] = 0; 
                 }
                 if (arr[nx][ny] == 1) {
                     arr[nx][ny] = 2;
