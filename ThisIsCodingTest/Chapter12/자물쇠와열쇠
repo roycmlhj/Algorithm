@@ -10,7 +10,7 @@ class Solution {
         return result;
     }
     
-    public static boolean check(int[][] newLock) {
+    public static boolean check(int[][] newLock) { 
         int lockLength = newLock.length / 3;
         for (int i = lockLength; i < lockLength * 2; i++) {
             for (int j = lockLength; j < lockLength * 2; j++) {
