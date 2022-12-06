@@ -8,7 +8,7 @@ class Solution {
             }
         }
         return result;
-    }
+    } 
     
     public static boolean check(int[][] newLock) { 
         int lockLength = newLock.length / 3;
