@@ -7,7 +7,7 @@ public class 치킨배달 {
 	static int N;
 	static int C;
 	static int min = Integer.MAX_VALUE;
-	static int[][] map;
+	static int[][] map; 
 	static ArrayList<int[]> home;
 	static ArrayList<int[]> chicken;
 	static boolean[] v;
