@@ -5,7 +5,7 @@ class Solution {
         
         while(max % min != 0){
             int r = max % min;
-            max = min;
+            max = min; 
             min = r;
         }
         return min;
