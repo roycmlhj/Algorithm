@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
     public int solution(String s) {
         int answer = s.length();
         if(s.length() == 1){return 1;}
