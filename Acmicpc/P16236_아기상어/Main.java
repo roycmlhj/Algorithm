@@ -9,7 +9,7 @@ public class Main {
 	
 	public static class Fish implements Comparable<Fish>{
 		int r;
-		int c;
+		int c; 
 		int size;
 		int d;    //상어로 부터 거리
 		
