@@ -3,7 +3,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
+ 
 public class Main{
 	public static int n,m;
 	public static int[] dx = { 1, 1, 0, -1, -1, -1, 0, 1 };
