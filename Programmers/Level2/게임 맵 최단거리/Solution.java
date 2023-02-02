@@ -6,7 +6,7 @@ class Solution {
                         colArr = new int[]{0, 0, 1, -1};
     
     static class Node {
-        final int row;
+        final int row; 
         final int col;
         final int move;
         
