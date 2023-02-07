@@ -1,4 +1,4 @@
-package bruteforce;
+package bruteforce; 
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
